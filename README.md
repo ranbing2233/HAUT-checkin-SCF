@@ -1,4 +1,4 @@
-# HAUT-checkin
+# HAUT-checkin-SCF
 河南工业大学自动校外打卡，基于腾讯云函数运行
 
 - 多人打卡
